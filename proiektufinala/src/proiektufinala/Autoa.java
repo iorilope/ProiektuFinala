@@ -31,8 +31,8 @@ public class Autoa {
 	/**
 	 * Instantiates a new autoa.
 	 *
-	 * @param a the a
-	 * @param b the b
+	 * @param a the modeloa
+	 * @param b the marka
 	 */
 	Autoa (String a,String b) {
 		Modeloa = a;
